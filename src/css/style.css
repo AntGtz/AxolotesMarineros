@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+.container{
+    max-width: 1200px;
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
+
+.color-navbar{
+    /* background-color: #2D6DCB; */
+    background-color: #BCE4E4;
+}
