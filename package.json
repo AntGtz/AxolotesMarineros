@@ -1,0 +1,22 @@
+{
+  "name": "axolotesmarineros",
+  "version": "1.0.0",
+  "description": "Hackathon LaunchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntGtz/AxolotesMarineros.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntGtz/AxolotesMarineros/issues"
+  },
+  "homepage": "https://github.com/AntGtz/AxolotesMarineros#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
