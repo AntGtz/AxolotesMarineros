@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "content": "El océano no ha sido explorado más del 5%",
+        "tittle": "Tamaño del océano",
+        "sub": "",
+        "source": "https://www.nationalgeographic.com.es/ciencia/10-curiosidades-sobre-oceanos_15577",
+        "img": "agua.jpg"
+    },
+    {
+        "id": "2",
+        "content": "contenido",
+        "tittle": "Especies en peligro",
+        "sub": "subtitulo",
+        "source": "enlace",
+        "img": "imagen"
+    }
+]
