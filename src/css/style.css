@@ -22,16 +22,25 @@ img{
 }
 
 .logo{
-    width: 200px;
-    height: 100px;
+    width: 300px;
+    height: 120px;
     object-fit: fill;
     background-size: contain;
 }
 
+.logo:hover{
+    width: 350px;
+    height: 150px;
+    object-fit: fill;
+    background-size: contain;
+   
+
+}
 /* MAIN - ROW 1 */
 .lineal {
     border-radius: 10px;
     background-image: linear-gradient(0, #dce9b6 0, #d5ebba 5%, #cdedbe 10%, #c5eec3 15%, #beefc9 20%, #b6f0cf 25%, #b0f1d6 30%, #a9f2dd 35%, #a4f2e4 40%, #a0f2eb 45%, #9df2f2 50%, #9bf2f9 55%, #9cf1ff 60%, #9df0ff 65%, #a1efff 70%, #a5edff 75%, #acecff 80%, #b3eaff 85%, #bbe8ff 90%, #c4e6ff 95%, #cde4ff 100%);
+    
 }
 
 .personaje-ajolote{
@@ -41,22 +50,21 @@ img{
     background-size: contain;
 }
 
-.personaje-blog{
-    width: 400px;
-    height: 300px;
-    object-fit: fill;
-    background-size: contain;
+.personaje-ajolote:hover {
+    box-shadow:0px 5px 5px #91a8e9;
 }
 
 .btn-colorMensaje{
     background-color: rgb(159, 202, 58);
     border: none;
+    
 }
 
 /* MAIN - ROW 2 */
 .row-card{
     margin-top: 50px;
     margin-bottom: 100px;
+    
     
 }
 
@@ -70,6 +78,10 @@ img{
     border-radius: 20px;
 }
 
+.card-body:hover{
+    box-shadow:0px 5px 5px #c0cdf1;
+}
+
 .row-card img{
     height: 100px;
 }
@@ -81,37 +93,110 @@ img{
     font-weight: bold;
 }
 
+
+
 .row-card img:hover{
     height: 120px;
 }
 
 .text-a:hover{
     color: white;
-    font-size: 27px;
+    font-size: 32px;
 }
 
+
+/*Blogs*/
+ 
+.lineal_2 {
+    padding: 10px;
+    width: 400px;
+    border-radius: 10px;
+    background-image: linear-gradient(0, #dce9b6 0, #d5ebba 5%, #cdedbe 10%, #c5eec3 15%, #beefc9 20%, #b6f0cf 25%, #b0f1d6 30%, #a9f2dd 35%, #a4f2e4 40%, #a0f2eb 45%, #9df2f2 50%, #9bf2f9 55%, #9cf1ff 60%, #9df0ff 65%, #a1efff 70%, #a5edff 75%, #acecff 80%, #b3eaff 85%, #bbe8ff 90%, #c4e6ff 95%, #cde4ff 100%);
+    
+}
+
+.lineal_2:hover{
+    box-shadow:0px 5px 5px #c0cdf1;
+}
+
+.personaje-pirata{
+    width: 450px;
+    height: 350px;
+    object-fit: fill;
+    background-size: contain;
+    z-index: 1;
+
+}
+
+
+
+.padding-top {
+    padding-top: 75px;
+}
+
+
+/*Blog 1 */
+
+
+.Parrafo2 {
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    
+}
+.textoParraf{
+    
+    width: 650px;
+    height: 200px;
+    padding-right: 50px;
+   
+}
+
+.textoParraf:hover{
+    box-shadow:0px 5px 5px #c0cdf1;
+}
+
+
+.imgMuestra {
+    width: 1300px;
+    border-radius: 30px;
+    padding-bottom: 50px;
+}
+
+.txtImg {
+    position: relative;
+    border-radius: 10px;
+    left: 40px;
+    background-color: #ddddddb0;
+    width: 400px;
+}
+
+.personajes {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+
+
+
+/*Blog 2 */
+.personaje-pirata:hover {
+    box-shadow:0px 5px 5px #c0cdf1;
+
+}
+
+.texto2:hover {
+    box-shadow:0px 5px 5px #c0cdf1;
+
+}
 /* ESTILOS FOOTER */
 footer{
     background-color: #EEF3FF;
 }
-
-@media(max-width: 576px){
-    /* ESTILOS NAVBAR */
-    /* APARECE EL FONDO DEL NAVBAR SOLO EL ANCHO ES MENOR AL 922 */
-    .logo{
-        width: 100px;
-        height: 50px;
-        object-fit: fill;
-        background-size: contain;
-    }
-
-    .personaje-ajolote{
-        width: 400px;
-        height: 400px;
-    }
-
-    .padding-top{
-        padding-top: 20px;
-    }
-
+.personaje-blog{
+    width: 400px;
+    height: 300px;
+    object-fit: fill;
+    background-size: contain;
 }
