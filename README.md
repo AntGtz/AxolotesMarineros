@@ -41,9 +41,10 @@ Side information: To use the application in a special environment use ```lorem i
 > Redes: _@Arrobeo_ |
 > [REDSOCIAL](ENLACE)
 ***
-**José** `` Cargo | Cargo``
-> Redes: _@Arrobeo_ |
-> [REDSOCIAL](ENLACE)
+**Antonio** `` Programador Backend | Estructurar código``
+> Redes: _@TranetRose_ |
+> [Github](https://github.com/AntGtz)|
+> [LinkedIn](https://www.linkedin.com/in/AntGtz/)
 ***
 **Brandon Enrique Bernardino García Ramírez** `` Project Manager | Diseñador de Experiencias de Aprendizaje``
 > Redes: _@Branenberg_ | [Lomography](https://www.lomography.com/homes/branenberg) |
