@@ -94,3 +94,24 @@ img{
 footer{
     background-color: #EEF3FF;
 }
+
+@media(max-width: 576px){
+    /* ESTILOS NAVBAR */
+    /* APARECE EL FONDO DEL NAVBAR SOLO EL ANCHO ES MENOR AL 922 */
+    .logo{
+        width: 100px;
+        height: 50px;
+        object-fit: fill;
+        background-size: contain;
+    }
+
+    .personaje-ajolote{
+        width: 400px;
+        height: 400px;
+    }
+
+    .padding-top{
+        padding-top: 20px;
+    }
+
+}
