@@ -41,6 +41,13 @@ img{
     background-size: contain;
 }
 
+.personaje-blog{
+    width: 400px;
+    height: 300px;
+    object-fit: fill;
+    background-size: contain;
+}
+
 .btn-colorMensaje{
     background-color: rgb(159, 202, 58);
     border: none;
