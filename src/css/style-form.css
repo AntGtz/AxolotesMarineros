@@ -104,6 +104,10 @@ textarea {
     transition: all 0.3s;
 }
 
+.button-regresar{
+    text-decoration: none;
+}
+
 .content {
     width: 100%;
     height: 680px;
