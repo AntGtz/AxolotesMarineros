@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    size: 6rem;  
+}
+
+.Portada{
+    max-width: 1350px;
+}
+.fichaTecnica{
+    width: 500px;
+    height: 220px;
+    background-color: beige;
+    border-radius: 10px;
+    padding: 5px;
+}
+.container1{ 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px;
+    align-items: center;
+border: 1px solid black;
+
+}
+
+.Descripcion {
+    width: 1350px;
+}
+
+.referencias {
+    width: 500px;
+    height: 100px;
+    background-color: beige;
+    border-radius: 10px;
+}

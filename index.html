@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE-edge">
     <meta name="viewport" content="width=device-width, inicial-scale=1.0">
     <title>Axolotes Marineros</title>
-    <script src="./lib/controllers/FactController.js" type="module"></script>
+    <script src="./lib/controllers/FactController.js"></script>
     <link rel="shortcut icon" href="./src/assets/Barco.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
     <!-- CSS Bootstrap -->
@@ -29,7 +29,7 @@
                 <div class="row">
                     <div class="col-xl-6 col-12">
                         <div class="lineal">
-                            <img class="personaje-ajolote" src="src/assets/buceador.png"">
+                            <img onclick="changeFact()" class="personaje-ajolote" src="src/assets/buceador.png">
                         </div>
                     </div>
                     <div class="col-xl-6 col-12 padding-top">
@@ -38,7 +38,7 @@
                                 <h5 class="card-title">¡Salva los oceanos!</h5>
                                 <p class="card-text">¿Sabías que?</p>
                                 <div id="fact"></div>
-                                <a href="#" class="btn btn-success btn-colorMensaje" onclick="changeFact()">APRENDE MÁS</a>
+                                <button class="btn btn-success btn-colorMensaje" >APRENDE MÁS</button>
                             </div>
                         </div>
                     </div>
@@ -59,14 +59,14 @@
                     <div class="col-xl-4 col-12 text-center">
                         <div class="card">                                        
                             <div class="card-body">
-                                <a class="text-a" href="#"> <img class="mx-auto d-block" src="src/assets/iconos/leaf.png" alt="">Material didáctico</a>
+                                <a class="text-a" href="./material.html"> <img class="mx-auto d-block" src="src/assets/iconos/leaf.png" alt="">Material didáctico</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-12 text-center">
                         <div class="card">                                        
                             <div class="card-body">
-                                <a class="text-a" href="views/form.html"> <img class="mx-auto d-block" src="src/assets/iconos/seminar.png" alt="">Contáctanos</a>
+                                <a class="text-a" href="views/form.html"> <img class="mx-auto d-block" src="src/assets/iconos/heart.png" alt="">Comunidad</a>
                             </div>
                         </div>
                     </div>
