@@ -16,12 +16,13 @@ Axolotes Marineros es una propuesta que pretende llamar a la acción, enfocados 
 * Comunidad abierta, voluntaria e informativa 
 
 ***
-## Technologias
+## Tecnologías
 
 Tecnologías empleadas para este proyecto:
 * [HTML](https://html.com/): Version Global 
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html): Version Global
 * [Node.js](https://nodejs.org/es/): Version 18.1.0
+* [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/): Version 5.1.3
 ***
 ## Web Desplegada
 
@@ -29,13 +30,25 @@ Enlace a Axolotes Marineros.
 ```
 WEB:
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
+¿Quieres saber más? Visita nuestra video presentación en TikTok:
+[Video De Presentación](https://www.tiktok.com/@branenberg/video/7098084848128052486?is_from_webapp=1&sender_device=pc&web_id=7098080646719899141)
+
+Dejamos aquí algunas imagenes de nuestro proyecto:
+
+**Index o página de inicio**
+![Página de inicio](src/assets/pages/Axolotes-Marineros-index.png "Práctica Pokedex ")
+
+**Blog**
+![Blog](src/assets/pages/Axolotes-Marineros-blog.png "Práctica Pokedex ")
+
+**Contáctanos**
+![Blog](src/assets/pages/Axolotes-Marineros-contactanos.png "Práctica Pokedex ")
+
 ***
 ## Colaboradores
 ***
-**Angel** `` Cargo | Cargo``
-> Redes: _@Arrobeo_ |
-> [REDSOCIAL](ENLACE)
+**Angel** `` Programador Fronted``
+> Redes: [GitHub](https://github.com/AngelDiaz-21) | [LinkedIn](https://www.linkedin.com/in/angel-alberto-diaz-cortes-76ab7722a/) | [Twitter](https://twitter.com/Angel86735180)
 ***
 **Carlos** `` Cargo | Cargo``
 > Redes: _@Arrobeo_ |
