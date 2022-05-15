@@ -27,9 +27,9 @@ Tecnologías empleadas para este proyecto:
 ## Web Desplegada
 
 Enlace a Axolotes Marineros. 
-```
-WEB:
-```
+
+[Ajolotes Marineros](https://antgtz.github.io/AxolotesMarineros/)
+
 ¿Quieres saber más? Visita nuestra video presentación en TikTok:
 [Video De Presentación](https://www.tiktok.com/@branenberg/video/7098084848128052486?is_from_webapp=1&sender_device=pc&web_id=7098080646719899141)
 
