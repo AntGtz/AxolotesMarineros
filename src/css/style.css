@@ -12,13 +12,78 @@ img{
     max-width: 1200px;
 }
 
+.row{
+    margin: 0;
+}
+
+/* HEADER - NAVBAR */
+.color-navbar{
+    background-color: #BCE4E4;
+}
+
 .logo{
     width: 200px;
     height: 100px;
-    background-size: cover;
+    object-fit: fill;
+    background-size: contain;
 }
 
-.color-navbar{
-    /* background-color: #2D6DCB; */
-    background-color: #BCE4E4;
+/* MAIN - ROW 1 */
+.lineal {
+    border-radius: 10px;
+    background-image: linear-gradient(0, #dce9b6 0, #d5ebba 5%, #cdedbe 10%, #c5eec3 15%, #beefc9 20%, #b6f0cf 25%, #b0f1d6 30%, #a9f2dd 35%, #a4f2e4 40%, #a0f2eb 45%, #9df2f2 50%, #9bf2f9 55%, #9cf1ff 60%, #9df0ff 65%, #a1efff 70%, #a5edff 75%, #acecff 80%, #b3eaff 85%, #bbe8ff 90%, #c4e6ff 95%, #cde4ff 100%);
+}
+
+.personaje-ajolote{
+    width: 700px;
+    height: 550px;
+    object-fit: fill;
+    background-size: contain;
+}
+
+.btn-colorMensaje{
+    background-color: rgb(159, 202, 58);
+    border: none;
+}
+
+/* MAIN - ROW 2 */
+.row-card{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+}
+
+.row-card .card{
+    height: 180px;
+    border-radius: 50px;
+}
+
+.row-card .card-body{
+    background-color: #2D6DCB;
+    border-radius: 20px;
+}
+
+.row-card img{
+    height: 100px;
+}
+
+.text-a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.row-card img:hover{
+    height: 120px;
+}
+
+.text-a:hover{
+    color: white;
+    font-size: 27px;
+}
+
+/* ESTILOS FOOTER */
+footer{
+    background-color: #EEF3FF;
 }
